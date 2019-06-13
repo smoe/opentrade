@@ -33,7 +33,7 @@ OpenTrade is an open source OEMS, and algorithmic trading platform, designed for
 
 ---
 
-# Steps to run on Ubuntu 18.04 or later, Debian unstable
+# Steps to run on Ubuntu 18.04 or later
 * **Compile**
   * Prepare dev environment.
   ```bash
